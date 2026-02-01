@@ -26,7 +26,7 @@ export default function About() {
           </div>
 
           <div className="about-card">
-            <img src="/images/Entrenamiento_Personalizado.webp" alt="Entrenamiento" />
+            <img src="/images/Entrenamiento_Personalizados - copia.webp" alt="Entrenamiento" />
             <h3>Entrenamientos Personalizados</h3>
             <p>
               Rutinas estructuradas por expertos, ajustadas a tu nivel físico y

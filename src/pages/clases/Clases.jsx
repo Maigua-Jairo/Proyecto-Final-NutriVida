@@ -16,7 +16,7 @@ export default function Classes() {
         <div className="class-container">
 
           <div className="class-card">
-            <img src="/images/yoga.png" alt="Yoga" />
+            <img src="/images/Yoga.png" alt="Yoga" />
             <h3>Yoga</h3>
           </div>
 
